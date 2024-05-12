@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/shivamjha_47" target="blank"><img src="https://img.shields.io/twitter/follow/shivamjha_47?logo=twitter&style=for-the-badge" alt="shivamjha_47" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Development**
-
+- 🔭 I’m currently working on **Coding Skills**
 - 📝 I regularly write articles on [https://www.quora.com/profile/Shivam-Kumar-16205](https://www.quora.com/profile/Shivam-Kumar-16205)
 
 - 💬 Ask me about **HTML5, CSS, JS, React JS.**
