@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Coding Skills**
 - 📝 I regularly write articles on [https://www.quora.com/profile/Shivam-Kumar-16205](https://www.quora.com/profile/Shivam-Kumar-16205)
 
-- 💬 Ask me about **HTML5, CSS, JS, React JS.**
+- 💬 Ask me about ** JAVA, HTML5, CSS, JS, React JS.**
 
 - 📫 How to reach me **shivamjha2325@gmail.com**
 
